@@ -1,18 +1,17 @@
-### Programming
+### Computer Science > Software Development
 - [ ] [C Programming](https://www.coursera.org/specializations/c-programming)
+- [ ] [Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals)
 
-### Algorhitmics and Discrete Mathematics
+### Computer Science > Algoorhitmics & Discrete Mathematics
+- [ ] [Blockchain](https://www.coursera.org/specializations/uci-blockchain)
 - [ ] [Data Structures and Algorhitms](https://www.coursera.org/specializations/data-structures-algorithms)
 - [ ] [Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics)
 
-### Machine Learning
+### Data Science > Machine Learning
 - [X] [Deep Learning](https://coursera.org/share/dc66249f6cfe797916dff259a96e7860)
 
-### Data Science
+### Data Science > Data Analysis
 - [ ] [Data Science](https://www.coursera.org/specializations/jhu-data-science)
 
-### Blockchain
-- [ ] [Blockchain](https://www.coursera.org/specializations/uci-blockchain)
-
-### Biology
+### Health > Basic Science
 - [ ] [Fundamentals of Immunology](https://www.coursera.org/specializations/immunology)
