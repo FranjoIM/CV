@@ -1,0 +1,3 @@
+- [X] [Deep Learning](https://coursera.org/share/dc66249f6cfe797916dff259a96e7860)
+- [ ] [Data Science](https://www.coursera.org/specializations/jhu-data-science)
+- [ ] [Blockchain](https://www.coursera.org/specializations/uci-blockchain)
