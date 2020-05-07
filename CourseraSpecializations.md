@@ -1,3 +1,3 @@
 - [X] [Deep Learning with deeplearning.ai](https://coursera.org/share/dc66249f6cfe797916dff259a96e7860)
-- [] [Data Science with Johns Hopkins University](https://www.coursera.org/specializations/jhu-data-science)
-- [] [Blockchain with University of California in Irivine](https://www.coursera.org/specializations/uci-blockchain)
+- [ ] [Data Science with Johns Hopkins University](https://www.coursera.org/specializations/jhu-data-science)
+- [ ] [Blockchain with University of California in Irivine](https://www.coursera.org/specializations/uci-blockchain)
