@@ -48,7 +48,7 @@
 ##### Data Science > Data Analysis
 - [ ] [Applied Data Science](https://www.coursera.org/specializations/applied-data-science)
 - [ ] [Applied Data Science With Python](https://www.coursera.org/specializations/data-science-python)
-- [ ] [Big Data}(https://www.coursera.org/specializations/big-data)
+- [ ] [Big Data](https://www.coursera.org/specializations/big-data)
 - [ ] [Database Systems](https://www.coursera.org/specializations/database-systems)
 - [ ] [Data Mining](https://www.coursera.org/specializations/data-mining)
 - [ ] [Data Science](https://www.coursera.org/specializations/jhu-data-science)
